@@ -44,5 +44,9 @@ def flt():
 #def hx1(): 
 print('new commit 2') 
 #imported mathcad doc
+<<<<<<< HEAD
 print('new branch???')
 print('aaaaaa')
+=======
+print('conflict')
+>>>>>>> tempbranch
