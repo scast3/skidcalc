@@ -45,3 +45,5 @@ def flt():
 print('new commit 2') 
 #imported mathcad doc
 print('conflict')
+
+print('making changes on github')
